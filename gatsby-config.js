@@ -21,7 +21,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Ashish Nandan Singh`,
-        short_name: `Portfolio`,
+        short_name: `Ashish`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
